@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <iomanip>
-#include "mysort.h"
+#include "mysort.hpp"
 
 int main()
 {
